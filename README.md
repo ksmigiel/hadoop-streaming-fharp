@@ -1,2 +1,3 @@
 # hadoop-streaming-fharp
-Simple MapReduce in Hadoop Streamin using F# language and mono platform.
+Simple word count mapred example in Hadoop Streaming using F# language and mono platform.
+Used HDP 2.2 platform as testing environment.
